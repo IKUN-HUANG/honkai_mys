@@ -1,0 +1,39 @@
+{
+    "version":[1,0,2],
+    "priority":10,
+    "group":"崩坏三",
+    "dir":"honkai_mys",
+    "list":[{
+        "title": "#崩坏三绑定+uid+服务器",
+        "desc": "绑定崩坏三账号",
+        "detail":"发送 #崩坏三绑定+uid+所在服务器 绑定账号，绑定后可查询卡片和女武神"
+        },{
+        "title": "#崩坏三cookie+米游社cookie",
+        "desc": "绑定cookie",
+        "detail":"需要先绑定uid。私聊发送 #崩坏三cookie+米游社cookie，绑定后可查询手账和自动签到，若被原神的绑定cookie拦截，请删除cookie中ltuid再发送"
+        },{
+        "title": "#崩坏三卡片",
+        "desc": "获取账号摘要信息",
+        "detail":"获取账号摘要信息，需要先绑定uid，需要机器人主人在config.py添加cookie"
+        },{
+        "title": "#崩坏三女武神",
+        "desc": "获取账号女武神信息",
+        "detail": "获取账号女武神信息，需要先绑定uid，需要机器人主人在config.py添加cookie"
+        },{
+        "title": "#崩坏三手账",
+        "desc": "获取手账信息",
+        "detail": "获取手账信息，需要先私聊绑定cookie"
+        },{
+        "title": "#崩坏三签到",
+        "desc": "签到并开启自动签到",
+        "detail": "签到并开启自动签到，需要先私聊绑定cookie"
+        },{
+        "title": "#崩坏三签到关闭",
+        "desc": "关闭自动签到",
+        "detail": "关闭自动签到"
+        },{
+        "title": "#崩坏三全部签到",
+        "desc": "仅管理员可用",
+        "detail": "手动全部签到"
+        }]
+}
